@@ -1,9 +1,9 @@
 ![Header](./github-header-image.png)
-# 💫 About Me:
+# 💫 About Me
 I am an undergraduate student at Telkom University, majoring in Informatics, with a strong passion for Cyber Security. My interests span across various domains, including vulnerability assessment, penetration testing, threat detection, incident response, and securing systems against real-world cyber threats. I am committed to continuously expanding my technical skills, staying updated with the latest developments in the security landscape, and contributing to the field through hands-on projects, research, and collaboration.
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aaronbarrichello/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@aaronpattinama2004) 
 
 # 💻 Tech Stack
