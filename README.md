@@ -1,5 +1,3 @@
-## Hi there, I'm Aaron 👋
-
 ![Header](./github-header-image.png)
 
 <!--
