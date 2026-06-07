@@ -1,4 +1,3 @@
-![Header](./github-header-image.png)
 # 💫 About Me
 Final-year Informatics student at Telkom University with hands-on experience in networking and  cybersecurity, including network implementation and troubleshooting, SOC, and VAPT. A highly curious, adaptable, and hardworking individual  with a strong willingness to learn and contribute in technical environments. Highly interested in pursuing a career in Network/Cyber Security roles.
 
